@@ -1,2 +1,3 @@
 # demo
-This my git repository for understanding git and github.
+This my Git repository for understanding Git and Github.
+Author - Tanmay Patil
